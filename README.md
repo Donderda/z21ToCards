@@ -4,7 +4,7 @@
 
 Ein Browser-basiertes Tool zum Erstellen von Lok-Karten aus Z21-Backups für Modellbahn-Enthusiasten.
 
-**[▶ Online nutzen](https://donderda.github.io/z21ToCards/)**
+**[▶ Online nutzen](https://mobasoftware.github.io/z21ToCards/)**
 
 ![Screenshot](docs/screenshot.png)
 
@@ -28,7 +28,7 @@ Die gedruckten Karten eignen sich perfekt für:
 ## Nutzung
 
 ### Online
-Nutze die **[gehostete Version auf GitHub Pages](https://donderda.github.io/z21ToCards/)** oder öffne die `public/index.html` lokal im Browser.
+Nutze die **[gehostete Version auf GitHub Pages](https://mobasoftware.github.io/z21ToCards/)** oder öffne die `public/index.html` lokal im Browser.
 
 ### GitHub Pages
 

@@ -4,7 +4,7 @@
 
 Een browser-gebaseerde tool voor het maken van locomotiefkaarten uit Z21-backups voor modelspoorbaan-enthousiasten.
 
-**[▶ Online gebruiken](https://donderda.github.io/z21ToCards/)**
+**[▶ Online gebruiken](https://mobasoftware.github.io/z21ToCards/)**
 
 ![Screenshot](docs/screenshot.png)
 
@@ -28,7 +28,7 @@ De geprinte kaarten zijn perfect voor:
 ## Gebruik
 
 ### Online
-Gebruik de **[gehoste versie op GitHub Pages](https://donderda.github.io/z21ToCards/)** of open `public/index.html` lokaal in je browser.
+Gebruik de **[gehoste versie op GitHub Pages](https://mobasoftware.github.io/z21ToCards/)** of open `public/index.html` lokaal in je browser.
 
 ### GitHub Pages
 

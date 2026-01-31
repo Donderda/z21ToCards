@@ -4,7 +4,7 @@
 
 Instrumentum in navigatore ad chartas locomotivarum ex Z21-exemplaribus creandas pro fervidiariis viarum ferratarum miniatarum.
 
-**[▶ In Interrete Uti](https://donderda.github.io/z21ToCards/)**
+**[▶ In Interrete Uti](https://mobasoftware.github.io/z21ToCards/)**
 
 ![Imago](docs/screenshot.png)
 
@@ -28,7 +28,7 @@ Chartae impressae perfectae sunt pro:
 ## Usus
 
 ### In Interrete
-Utere **[versione in GitHub Pages](https://donderda.github.io/z21ToCards/)** vel aperi `public/index.html` localiter in navigatore tuo.
+Utere **[versione in GitHub Pages](https://mobasoftware.github.io/z21ToCards/)** vel aperi `public/index.html` localiter in navigatore tuo.
 
 ### GitHub Pages
 
