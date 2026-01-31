@@ -1,0 +1,21 @@
+{
+  "name": "Lok-Karten Generator",
+  "short_name": "Lok-Karten",
+  "description": "Erstelle Lok-Karten aus deinem Z21-Backup",
+  "start_url": "https://mobasoftware.github.io/z21ToCards/",
+  "scope": "https://mobasoftware.github.io/z21ToCards/",
+  "display": "standalone",
+  "background_color": "#4a7c4e",
+  "theme_color": "#4a7c4e",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons8-lokomotive-emoji-100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "de"
+}
