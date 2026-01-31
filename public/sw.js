@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lok-karten-v1';
+const CACHE_NAME = 'lok-karten-v3';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -8,6 +8,10 @@ const ASSETS_TO_CACHE = [
   './style-industrial.css',
   './script.js',
   './manifest.json',
+  './lib/jszip.min.js',
+  './lib/jspdf.umd.min.js',
+  './lib/sql-wasm.js',
+  './lib/sql-wasm.wasm',
   './icons8-lokomotive-emoji-100.png',
   './icons8-eisenbahnwaggon-100.png',
   './icons8-tree-96.png',

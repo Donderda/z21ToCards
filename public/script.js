@@ -852,7 +852,7 @@ async function initApp() {
         // Load sql.js
         loadingText.textContent = t('loadingSqlite');
         SQL = await initSqlJs({
-            locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.3/${file}`
+            locateFile: file => `lib/${file}`
         });
 
         loadingText.textContent = t('loadingReady');
@@ -906,7 +906,7 @@ function setupLanguageSwitcher() {
 function initSqlJs(config) {
     return new Promise((resolve, reject) => {
         const script = document.createElement('script');
-        script.src = 'https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.3/sql-wasm.js';
+        script.src = 'lib/sql-wasm.js';
         script.onload = async () => {
             try {
                 const SQL = await window.initSqlJs(config);
